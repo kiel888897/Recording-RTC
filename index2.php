@@ -5,7 +5,7 @@
 <html lang="en">
 
 <head>
-    <title>Video Chat</title>
+    <title>Video Chats</title>
     <?php
     $id = $_GET['id'];
     $metode = $_GET['metode'];
